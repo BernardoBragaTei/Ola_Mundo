@@ -1,6 +1,3 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e Github
+ Primeiro repositório do curso de **Git e GitHub**
 
-Alterei no github!
-
-Testando mais uma alteração externa...
